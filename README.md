@@ -1,7 +1,9 @@
 # COLLAGE ARTISTICA
 👨‍💻ESSE PROJETO APRESENTA UMA GALERIA INTERATIVA DE OBRAS DE ARTE, ANIMAÇÕES SUAVES E UM LAYOUT RESPONSIVO.
 
-<img src="FOTO.mp4" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este é um **projeto de portfólio de arte com colagens**, chamado **Collage Artística**, que apresenta uma galeria interativa de obras de arte, animações suaves e um layout responsivo. Ele utiliza **HTML**, **CSS** e **JavaScript** para criar uma experiência imersiva com efeitos visuais atraentes, incluindo animações ScrollReveal e uma lightbox para visualização ampliada das imagens.
